@@ -1,1 +1,26 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+    width: 500px;
+    margin: 10px 70px;
+    border: 1px solid lightgray;
+    border-radius: 1%;
+}
+
+.react-thumbnail {
+    width: 500px;
+}
+
+.card-content {
+    width: 500px;
+    font-size: 0.9rem;
+    padding: 0 15px;
+}
+
+.p1 {
+    font-weight: bold;
+}
+
+.p3 {
+    color: darkgray;
+}
