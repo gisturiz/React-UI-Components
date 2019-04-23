@@ -1,1 +1,39 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    display: flex;
+    width: 580px;
+}
+
+.title-with-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title {
+    display: flex;
+    align-items: baseline;
+}
+
+.lambda-title {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.stamp {
+    font-size: 0.8rem;
+    color: darkgrey;
+}
+
+.image-thumbnail {
+    padding: 15px;
+    width: 40px;
+    height: 45px;
+}
+
+.header-content {
+    display: flex;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
