@@ -1,11 +1,6 @@
-.button-card {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-}
 .button-action {
     color: black;
-    background-color: white;
+    background-color: transparent;
     width: 75%;
     height: 95px;
     font-size: 3rem;
@@ -13,7 +8,7 @@
 
 .button-numbers {
     color: black;
-    background-color: white;
+    background-color: transparent;
     width: 25%;
     height: 95px;
     font-size: 3rem;
